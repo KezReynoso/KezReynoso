@@ -6,8 +6,6 @@
 
 - :computer: I'm a Backend Developer/Data Scientist in process... 😉
 
-- 📑 I’m currently working on Get Talent - Hackademy/ Skills For Women In Tech 👩‍💻
-
 - 👩‍🔬 I'm a Science lover 🔬 
 
 - 💜 I'm a STEMinist bridging the gender gap in STEM 🚀
