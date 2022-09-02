@@ -4,7 +4,7 @@
 
 - 🎓  I’m a Physicist with a PhD on Biomedical Physics and Engineering ⚛️
 
-- :computer: I'm a Backend Developer/Data Scientist in process... 😉
+- :computer: I'm a Data Analyst/Data Scientist in process... 😉
 
 - 👩‍🔬 I'm a Science lover 🔬 
 
